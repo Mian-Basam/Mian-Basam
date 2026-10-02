@@ -16,10 +16,10 @@ I build web platforms and AI-powered tools for technical learning: course and co
 | Project | What it does | Stack |
 |---|---|---|
 | [PDF Editor](https://github.com/Mian-Basam/PDF_Editor) | Edit existing PDF text, annotate, sign, and merge or reorder pages entirely in the browser. Files never leave your device. | Next.js · TypeScript · pdf-lib · PDF.js |
-| [Educative Build Status Checker](https://github.com/Mian-Basam/educative-docker-image-failuer-testing) | Read-only checker that verifies custom Docker image builds across course collections and writes a report | Python · Playwright · Excel |
+| [Educative Build Status Checker](https://github.com/Mian-Basam/educative-docker-image-failure-testing) | Read-only checker that verifies custom Docker image builds across course collections and writes a report | Python · Playwright · Excel |
 | [Flask GPT Chatbot](https://github.com/Mian-Basam/Chat-bot-using-openAI) | Context-aware chatbot with saved conversation history | Python · Flask · OpenAI · SQLite · Docker |
 | [Online CV](https://github.com/Mian-Basam/Online-CV-using-html-css-and-node-sever) | Responsive personal CV hosted on GitHub Pages | HTML · CSS |
-| [OpenCV Image Processing Lab](https://github.com/Mian-Basam/Open-CV-) | 12-task hands-on lab with worked solutions | Python · OpenCV · Jupyter |
+| [OpenCV Image Processing Lab](https://github.com/Mian-Basam/OpenCV-Image-Processing) | 12-task hands-on lab with worked solutions | Python · OpenCV · Jupyter |
 
 ## 🛠️ Tech stack
 
