@@ -30,6 +30,7 @@ I build web platforms, AI-powered content tools and the infrastructure that ship
 |---|---|---|
 | [ShopOnline](https://github.com/Mian-Basam/Ecommerce) | Full-stack store with products, deals, reviews, auth and cart | Next.js 15 · Express · MongoDB |
 | [PDF Editor](https://github.com/Mian-Basam/PDF_Editor) | Edit PDF text, annotate, sign, merge and reorder pages entirely in the browser | Next.js · TypeScript · pdf-lib |
+| [Interview Guide Generator](https://github.com/Mian-Basam/interview-guide-generator) | Multi-agent app that turns a company name into an SEO-ready interview prep pack, with source-backed research and human-in-the-loop review | Next.js · TypeScript · Claude / OpenAI / Gemini |
 | [AI Content Studio](https://github.com/Mian-Basam/Mobile-Course-Educative) | Multi-stage AI pipelines that generate blogs, newsletters and mobile courses, with streaming and image generation | Next.js · TypeScript · LLM APIs |
 | [Flask GPT Chatbot](https://github.com/Mian-Basam/Chat-bot-using-openAI) | Context-aware chatbot with saved conversation history | Flask · OpenAI · SQLite · Docker |
 | [Build Status Checker](https://github.com/Mian-Basam/educative-docker-image-failure-testing) | Verifies Docker image builds across course collections and writes a report | Python · Playwright |
