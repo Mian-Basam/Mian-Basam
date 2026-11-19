@@ -54,6 +54,6 @@ I build web platforms, AI-powered content tools and the infrastructure that ship
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-basam-ahmad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-basam-ahmad-68b997147/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mbasamahmad@gmail.com)
 [![CV](https://img.shields.io/badge/Online_CV-222222?style=flat&logo=githubpages&logoColor=white)](https://mian-basam.github.io/Online-CV-using-html-css-and-node-sever/)
