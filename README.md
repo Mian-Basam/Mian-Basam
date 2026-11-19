@@ -2,7 +2,7 @@
 
 **Software Engineer @ [Educative](https://www.educative.io)** · Full-stack · DevOps · AI tooling · Former university lecturer
 
-I build web platforms, AI-powered content tools and the infrastructure that ships them: course and content pipelines, internal automation, CI/CD and observability. Before Educative, I spent five years teaching Data Structures, OOP, Databases and Web Development at PUCIT, FAST and UMT.
+I build web platforms, AI-powered content tools and the infrastructure that ships them: course and content pipelines, internal automation, CI/CD and observability. Before Educative, I spent five years teaching Data Structures, OOP, Databases, Web Development, Machine Learning, AI and Data Science at PUCIT, FAST and UMT.
 
 ## 🔭 What I work on
 
@@ -49,7 +49,7 @@ I build web platforms, AI-powered content tools and the infrastructure that ship
 
 - **MS Computer Science**, FAST NUCES
 - **BS Computer Science**, PUCIT
-- Software Engineer at Educative (2021–present) · SolutionInn (2016–2017)
+- Software Engineer & Tech Lead at Educative (2021–present): lead a project-vertical team, run Scrum, track tickets and drive automation · SolutionInn (2016–2017)
 - Lecturer & Lab Instructor at PUCIT, FAST and UMT (2016–2021)
 
 ## 📫 Connect
