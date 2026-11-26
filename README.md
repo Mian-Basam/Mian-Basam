@@ -11,6 +11,18 @@ I build web platforms, AI-powered content tools and the infrastructure that ship
 - **AI tooling:** LLM pipelines that generate and review courses, blogs and practice questions
 - **Automation:** Playwright checks and Bash/Python tools that save teams hours of manual work
 
+## ✍️ Latest writing
+
+I write practical, code-first tutorials on my blog: **[mian-basam.github.io](https://mian-basam.github.io)**
+
+- [Building an AI Assistant Using Python and FastAPI](https://mian-basam.github.io/blog/building-an-ai-assistant-with-python-and-fastapi/)
+- [React 19: Understanding Actions and useActionState](https://mian-basam.github.io/blog/react-19-actions-and-useactionstate/)
+- [Docker Compose Explained With Practical Examples](https://mian-basam.github.io/blog/docker-compose-explained-with-practical-examples/)
+- [Building an AI Application Using CrewAI](https://mian-basam.github.io/blog/building-an-ai-application-using-crewai/)
+- [REST API Development With FastAPI](https://mian-basam.github.io/blog/rest-api-development-with-fastapi/)
+
+Open to freelance technical writing: tutorials, docs and developer blog posts.
+
 ## 🚀 Featured projects
 
 ### DevOps & infrastructure
@@ -55,6 +67,7 @@ I build web platforms, AI-powered content tools and the infrastructure that ship
 
 ## 📫 Connect
 
+[![Blog](https://img.shields.io/badge/Blog-222222?style=flat&logo=githubpages&logoColor=white)](https://mian-basam.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-basam-ahmad-68b997147/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mbasamahmad@gmail.com)
 [![CV](https://img.shields.io/badge/Online_CV-222222?style=flat&logo=githubpages&logoColor=white)](https://mian-basam.github.io/Online-CV-using-html-css-and-node-sever/)
