@@ -2,7 +2,9 @@
 
 # Hi, I'm Mian Basam Ahmad 👋
 
-### Software Engineer & Tech Lead @ [Educative](https://www.educative.io) · Full-stack · DevOps · AI tooling
+### Software Engineer & Technical Team Lead @ [Educative](https://www.educative.io)
+
+**Project Management · Agile & Scrum · Full-stack · DevOps · AI tooling**
 
 [![Blog](https://img.shields.io/badge/Blog-mian--basam.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mian-basam.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-basam-ahmad-68b997147/)
@@ -13,7 +15,7 @@
 
 ---
 
-I build web platforms, AI-powered content tools and the infrastructure that ships them: course and content pipelines, internal automation, CI/CD and observability. Before Educative, I spent five years teaching Data Structures, OOP, Databases, Web Development, Machine Learning, AI and Data Science at PUCIT, FAST and UMT.
+As **Project Manager and Technical Team Lead** for Educative's Project Vertical, I lead a cross-functional team of 3–5 engineers through sprint planning, delivery, mentorship and continuous process improvement. Alongside leading, I build web platforms, AI-powered content tools and the infrastructure that ships them: course and content pipelines, internal automation, CI/CD and observability. Before Educative, I spent five years teaching Data Structures, OOP, Databases, Web Development, Machine Learning, AI and Data Science at PUCIT, FAST and UMT.
 
 ## 🔭 What I work on
 
@@ -23,6 +25,26 @@ I build web platforms, AI-powered content tools and the infrastructure that ship
 | **DevOps & cloud** | Docker, Kubernetes, Ansible, Jenkins, GitHub Actions, Prometheus/Grafana |
 | **AI tooling** | LLM pipelines that generate and review courses, blogs and practice questions |
 | **Automation** | Playwright checks and Bash/Python tools that save teams hours of manual work |
+
+## 🧭 Leadership: Project Manager | Technical Team Lead
+
+I lead a cross-functional technical team of 3–5 members in the **Project Vertical**, owning project execution, sprint planning, technical problem-solving, team development and process improvement.
+
+| Area | What I do |
+|---|---|
+| **Team leadership** | Delegate responsibilities, monitor individual and team performance, and keep work aligned with project goals and deadlines |
+| **Planning & delivery** | Build project plans, define milestones, prioritize tasks, track progress and deliver on time |
+| **Agile & sprints** | Plan sprints, facilitate sprint planning and retrospectives, and monitor progress through each cycle |
+| **Technical leadership** | Give hands-on help with complex problems, review implementations and clear development blockers |
+| **Debugging & root cause analysis** | Investigate issues, find root causes and guide the team to effective fixes |
+| **Mentorship** | Identify skill gaps, set growth plans and coach team members technically and professionally |
+| **Performance evaluation** | Assess contributions, quality and productivity, and give constructive feedback |
+| **Process improvement** | Analyze sprint outcomes, remove recurring bottlenecks and improve team efficiency |
+| **Reporting** | Sprint reports, progress updates, performance summaries, blocker reports and operational docs for stakeholders |
+| **Stakeholders & risk** | Communicate status, manage dependencies and priorities, escalate critical blockers and coordinate solutions |
+| **Quality assurance** | Review and validate deliverables against requirements and technical standards |
+
+**Core focus:** Technical Project Management · Agile & Scrum · Sprint Planning · Team Leadership · Technical Mentorship · Project Delivery · Root Cause Analysis · Performance Management · Continuous Improvement
 
 ## ✍️ Latest writing
 
@@ -76,7 +98,7 @@ I write practical, code-first tutorials on my blog: **[mian-basam.github.io](htt
 
 - **MS Computer Science**, FAST NUCES
 - **BS Computer Science**, PUCIT
-- Software Engineer & Tech Lead at Educative (2021–present): lead a project-vertical team, run Scrum, track tickets and drive automation · SolutionInn (2016–2017)
+- Software Engineer and Project Manager / Technical Team Lead (Project Vertical) at Educative (2021–present): lead a 3–5 person team, run sprints and Scrum, mentor engineers and drive automation · SolutionInn (2016–2017)
 - Lecturer & Lab Instructor at PUCIT, FAST and UMT (2016–2021)
 
 ## 📊 GitHub stats
