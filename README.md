@@ -15,7 +15,9 @@
 
 ---
 
-As **Project Manager and Technical Team Lead** for Educative's Project Vertical, I lead a cross-functional team of 3–5 engineers through sprint planning, delivery, mentorship and continuous process improvement. Alongside leading, I build web platforms, AI-powered content tools and the infrastructure that ships them: course and content pipelines, internal automation, CI/CD and observability. Before Educative, I spent five years teaching Data Structures, OOP, Databases, Web Development, Machine Learning, AI and Data Science at PUCIT, FAST and UMT.
+I am a **Software Engineer and Technical Team Lead at Educative**, where I manage a cross-functional team of 3–5 engineers in the Project Vertical and own sprint planning, delivery, technical mentorship and continuous process improvement.
+
+My engineering work spans web platforms, AI-powered content tools and the infrastructure behind them, including content pipelines, internal automation, CI/CD and observability. Prior to Educative, I spent five years as a university lecturer at PUCIT, FAST and UMT, teaching Data Structures, OOP, Databases, Web Development, Machine Learning, AI and Data Science.
 
 ## 🔭 What I work on
 
