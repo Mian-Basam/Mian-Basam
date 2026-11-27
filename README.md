@@ -1,15 +1,28 @@
+<div align="center">
+
 # Hi, I'm Mian Basam Ahmad 👋
 
-**Software Engineer @ [Educative](https://www.educative.io)** · Full-stack · DevOps · AI tooling · Former university lecturer
+### Software Engineer & Tech Lead @ [Educative](https://www.educative.io) · Full-stack · DevOps · AI tooling
+
+[![Blog](https://img.shields.io/badge/Blog-mian--basam.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mian-basam.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-basam-ahmad-68b997147/)
+[![Online CV](https://img.shields.io/badge/Online_CV-View-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mian-basam.github.io/Online-CV-using-html-css-and-node-sever/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbasamahmad@gmail.com)
+
+</div>
+
+---
 
 I build web platforms, AI-powered content tools and the infrastructure that ships them: course and content pipelines, internal automation, CI/CD and observability. Before Educative, I spent five years teaching Data Structures, OOP, Databases, Web Development, Machine Learning, AI and Data Science at PUCIT, FAST and UMT.
 
 ## 🔭 What I work on
 
-- **Full-stack web apps:** Next.js, React, Node.js/Express, Flask, MongoDB, PostgreSQL
-- **DevOps & cloud:** Docker, Kubernetes, Ansible, Jenkins, GitHub Actions, Prometheus/Grafana
-- **AI tooling:** LLM pipelines that generate and review courses, blogs and practice questions
-- **Automation:** Playwright checks and Bash/Python tools that save teams hours of manual work
+| Area | Focus |
+|---|---|
+| **Full-stack web apps** | Next.js, React, Node.js/Express, Flask, MongoDB, PostgreSQL |
+| **DevOps & cloud** | Docker, Kubernetes, Ansible, Jenkins, GitHub Actions, Prometheus/Grafana |
+| **AI tooling** | LLM pipelines that generate and review courses, blogs and practice questions |
+| **Automation** | Playwright checks and Bash/Python tools that save teams hours of manual work |
 
 ## ✍️ Latest writing
 
@@ -20,8 +33,6 @@ I write practical, code-first tutorials on my blog: **[mian-basam.github.io](htt
 - [Docker Compose Explained With Practical Examples](https://mian-basam.github.io/blog/docker-compose-explained-with-practical-examples/)
 - [Building an AI Application Using CrewAI](https://mian-basam.github.io/blog/building-an-ai-application-using-crewai/)
 - [REST API Development With FastAPI](https://mian-basam.github.io/blog/rest-api-development-with-fastapi/)
-
-Open to freelance technical writing: tutorials, docs and developer blog posts.
 
 ## 🚀 Featured projects
 
@@ -40,12 +51,15 @@ Open to freelance technical writing: tutorials, docs and developer blog posts.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [CVCraft](https://github.com/Mian-Basam/cvcraft-resume-builder) | Resume & cover-letter builder with 107 templates × 10 palettes, live A4 preview and click-to-edit | Next.js · React · Tailwind |
+| [Launch Readiness Board](https://github.com/Mian-Basam/launch-readiness-board) | Jira-style sprint board with WIP limits, optimistic updates and offline-first sync | React 19 · Vite · TanStack Query |
 | [ShopOnline](https://github.com/Mian-Basam/Ecommerce) | Full-stack store with products, deals, reviews, auth and cart | Next.js 15 · Express · MongoDB |
 | [PDF Editor](https://github.com/Mian-Basam/PDF_Editor) | Edit PDF text, annotate, sign, merge and reorder pages entirely in the browser | Next.js · TypeScript · pdf-lib |
 | [Interview Guide Generator](https://github.com/Mian-Basam/interview-guide-generator) | Multi-agent app that turns a company name into an SEO-ready interview prep pack, with source-backed research and human-in-the-loop review | Next.js · TypeScript · Claude / OpenAI / Gemini |
 | [AI Content Studio](https://github.com/Mian-Basam/Mobile-Course-Educative) | Multi-stage AI pipelines that generate blogs, newsletters and mobile courses, with streaming and image generation | Next.js · TypeScript · LLM APIs |
 | [Flask GPT Chatbot](https://github.com/Mian-Basam/Chat-bot-using-openAI) | Context-aware chatbot with saved conversation history | Flask · OpenAI · SQLite · Docker |
 | [Build Status Checker](https://github.com/Mian-Basam/educative-docker-image-failure-testing) | Verifies Docker image builds across course collections and writes a report | Python · Playwright |
+| [Zing It](https://github.com/Mian-Basam/zing-it-django-music-playlist) | Multi-page music playlist app with template inheritance, dynamic routes and Docker | Django · Python |
 | [OpenCV Image Processing Lab](https://github.com/Mian-Basam/OpenCV-Image-Processing) | 12-task hands-on computer vision lab with worked solutions | Python · OpenCV · Jupyter |
 
 ## 🛠️ Tech stack
@@ -65,9 +79,19 @@ Open to freelance technical writing: tutorials, docs and developer blog posts.
 - Software Engineer & Tech Lead at Educative (2021–present): lead a project-vertical team, run Scrum, track tickets and drive automation · SolutionInn (2016–2017)
 - Lecturer & Lab Instructor at PUCIT, FAST and UMT (2016–2021)
 
-## 📫 Connect
+## 📊 GitHub stats
 
-[![Blog](https://img.shields.io/badge/Blog-222222?style=flat&logo=githubpages&logoColor=white)](https://mian-basam.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-basam-ahmad-68b997147/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mbasamahmad@gmail.com)
-[![CV](https://img.shields.io/badge/Online_CV-222222?style=flat&logo=githubpages&logoColor=white)](https://mian-basam.github.io/Online-CV-using-html-css-and-node-sever/)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mian-Basam&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mian-Basam&layout=compact&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Open to freelance technical writing: tutorials, docs and developer blog posts.</sub>
+
+</div>
